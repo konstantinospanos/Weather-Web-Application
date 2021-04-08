@@ -21,6 +21,9 @@ The program or application calls the API in this case call OpenWeather platform 
 Τhere is a text input where it writes the Country/City and displays the weather.
 Additional prevent duplicate Country/City
 
+![Screenshot from 2021-04-08 16-56-44](https://user-images.githubusercontent.com/80073685/114039563-85f16d00-988b-11eb-981c-8d2649752a2c.png)
+
+
 
 
 
