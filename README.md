@@ -17,6 +17,9 @@ The program or application calls the API in this case call OpenWeather platform 
 `pip install django==3.2`
 `pip install requests`
 
+# How to use
+Τhere is a text input where it writes the Country/City and displays the weather.
+Additional prevent duplicate Country/City
 
 
 
