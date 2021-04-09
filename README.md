@@ -1,5 +1,6 @@
 # Weather-Web-Application
-A simple weather web application using Python and Django.It will show current weather conditions in a certain City/Country.Using api key get query on Open Weather platform responses the weather of the Country/City we want.
+
+A simple weather web application using Python and Django.The application collecting data from api, and deliver the data in front end showing current weather conditions in certain City/Country
 
 # Django framework
 Django is an open-source framework for backend web applications based on Python.
@@ -18,6 +19,7 @@ The program or application calls the API in this case call OpenWeather platform 
 `pip install requests`
 
 # How to use
+
 Τhere is a text input where it writes the Country/City and displays the weather.
 Additional prevent duplicate Country/City
 
